@@ -26,12 +26,12 @@ A personal portfolio website showcasing my skills and projects with a beautiful 
 
 ## Live Demo
 
-You can view the live website by opening `portfolio_brown_final.html` in your browser.
+You can view the live website by opening `index.html` in your browser or visit the live GitHub Pages site.
 
 ## Contact
 
 - **Name**: Anugrah Sengar
-- **Portfolio**: [View Live Demo](https://your-username.github.io/portfolio-website)
+- **Portfolio**: [View Live Demo](https://anugrah55.github.io/Portfolio)
 
 ## License
 
